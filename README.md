@@ -27,7 +27,7 @@
 
 ---
 ### 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/tranbaoanh21?template=classic&base.header=0&base.activity=0&base.community=0&repositories=0&metadata=0)
+![Bao Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranbaoanh21&show_icons=true&theme=tokyonight)
 
 ---
 
