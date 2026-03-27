@@ -37,12 +37,6 @@
 - 🎥 TikTok: https://www.tiktok.com/@bilingual_coding.21
 
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/tranbaoanh21?theme=dark&font=Inconsolata" alt="LeetCode Stats" />
-</p>
-
-
-
 
 
 
