@@ -16,13 +16,11 @@ Welcome to my GitHub profile! I am an undergraduate student at Ho Chi Minh City 
 
 ### 🛠️ Tech Stack
 
-*Thay vì dùng các link ảnh rời rạc dễ lỗi, mình dùng hệ thống Skill Icons động, tự động tương thích với cả nền tối và sáng của GitHub.*
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,cpp,html,css,tailwind,bootstrap,git,github,docker)](https://skillicons.dev)
 
 ### 📈 GitHub & LeetCode Stats
 
-*Các thẻ thống kê này được lấy từ nguồn API chính thức, đảm bảo luôn cập nhật theo thời gian thực và không bị lỗi hiển thị.*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tranbaoanh21&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="Bảo Anh's GitHub Stats" height="190"/>
