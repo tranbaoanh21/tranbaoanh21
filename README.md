@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bảo Anh</h1>
 <h3 align="center">I Want to Become a Full-Stack SWE in the future!</h3>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tranbaoanh21&margin-w=15" alt="tranbaoanh21 Trophies" />
-  </a> 
-</p>
-
 ---
 
 ### 🌟 About Me
