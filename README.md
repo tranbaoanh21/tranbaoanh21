@@ -5,12 +5,6 @@
 
 ---
 
-## 🌟 About Me
-- 🌱 I’m currently learning **MERN Stack!**
-- 👨‍💻 All of my projects are available at [github.com/tranbaoanh21](https://github.com/tranbaoanh21)
-- 💬 Ask me about **React, MongoDB, Express.js**
-- 📫 How to reach me: **trannhatbaoanhtnba@gmail.com**
-
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%e1%ba%a3o-anh-349632398/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nhat.bao.anh.2024)
