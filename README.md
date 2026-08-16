@@ -3,8 +3,7 @@
   <h3>Aspiring to Become a Full-Stack SWE in the near future!</h3>
 </div>
 
-[View the latest CV](./B%E1%BA%A3o%20Anh.pdf)
-
+[![View CV](https://img.shields.io/badge/View_My_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tranbaoanh21/my-personal-CV/blob/main/B%E1%BA%A3o%20Anh.pdf)
 
 ---
 
