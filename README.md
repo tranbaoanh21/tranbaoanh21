@@ -3,6 +3,9 @@
   <h3>Aspiring to Become a Full-Stack SWE in the near future!</h3>
 </div>
 
+[View the latest CV](./B%E1%BA%A3o%20Anh.pdf)
+
+
 ---
 
 ## 🤝 Connect with me
