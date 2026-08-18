@@ -1,20 +1,9 @@
-<div align="center">
-  <h1>Hi 👋, I'm Bảo Anh</h1>
-  <h3>Aspiring to Become a Full-Stack SWE in the near future!</h3>
-</div>
-
 <div>
   <h1>View my Personal CV below: </h1>
 </div>
 
 [![View CV](https://img.shields.io/badge/View_My_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tranbaoanh21/my-personal-CV/blob/main/B%E1%BA%A3o%20Anh.pdf)
 
----
-
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%e1%ba%a3o-anh-349632398/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nhat.bao.anh.2024)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/baoanh21098386)
 
 ---
 
